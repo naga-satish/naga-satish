@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @naga-satish
 - 👀 I’m interested in crunching data, travelling
-- 🌱 I’m currently learning python
+- 💻 I have knowledge about SQL, Python, Apache Airflow, Apache NiFi, PySpark, Snowflake Cloud data warehouse, AWS S3, AWS Athena, Microsoft Excel.
+- 🌱 I’m currently learning PowerBI
 - 💞️ I’m looking to collaborate on data engineering
 - 📫 Reach out to me by sending mail to cnagasatish1@gmail.com
 
